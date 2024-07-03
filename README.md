@@ -2,7 +2,6 @@
     <h1 align="center">Hi 👋, I'm Ajay Chauhan</h1>
 <h3 align="center">💻Passionate Web Developer | 🚀 Java Full Stack Enthusiast | 🥰 Academic Achiever</h3>
 <img align="right" height="300px" width="400px" src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU" alt="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaychauhan100&label=Profile%20views&color=0e75b6&style=flat" alt="ajaychauhan100" /> </p>
 
 - 🔭 I’m currently working on **developing a dry-cleaning service application similar to Zomato, focusing on the pick-up and delivery of dry-clean clothes.**
 
