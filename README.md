@@ -1,36 +1,33 @@
-Hello, I'm AJAY CHAUHAN👋
+[![MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)
+    <h1 align="center">Hi 👋, I'm Ajay Chauhan</h1>
+<h3 align="center">💻Passionate Web Developer | 🚀 Java Full Stack Enthusiast | 🥰 Academic Achiever</h3>
+<img align="right" height="400px" width="500px" src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU" alt="">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaychauhan100&label=Profile%20views&color=0e75b6&style=flat" alt="ajaychauhan100" /> </p>
 
-💻Passionate Web Developer | 🚀 Java Full Stack Enthusiast | 🥰 Academic Achiever
+- 🔭 I’m currently working on **developing a dry-cleaning service application similar to Zomato, focusing on the pick-up and delivery of dry-clean clothes.**
 
-I am currently focused on expanding 💡 my expertise in Java Full Stack Development. 
-My technical journey encompasses a wide range of technologies and frameworks, including:
+- 🌱 I’m currently learning **Hibernate, Spring and consistently solving LeetCode problems.**
 
-==> Frontend: HTML, CSS, JavaScript, Tailwind CSS, React.js 🎨
+- 👨‍💻 All of my projects are available at [https://github.com/AjayChauhan100](https://github.com/AjayChauhan100)
 
-==> Backend: ☕ Java, Servlet, JSP, MySQL, Computer Networks 🌐
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, React.js, Java, C++, Servlet, JSP, MySql, Python, Computer Networks.**
 
-==> Deployment: Tomcat Server 🖥️ 🗄️
+- 📫 How to reach me **ajaychauhan2338@gmail.com**
 
-==> Exploring: MERN Stack
+- ⚡ Fun fact **I once met the former Indian President, Pranab Mukherjee, during my school life due to my academic excellence!**
 
-HIGHLIGHTS
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/2032_ajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2032_ajay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajay-chauhan-ac2338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-chauhan-ac2338" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ajaychauhan2338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaychauhan2338" height="30" width="40" /></a>
+</p>
 
-Academic Excellence: I had the honor of meeting the former 🏆 Indian President, Pranab Mukherjee, in recognition of my academic achievements during my school years.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-💯 Strong Mathematical Foundation: I have a profound passion for mathematics, which has greatly contributed to my analytical and problem-solving skills.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaychauhan100&show_icons=true&locale=en&layout=compact" alt="ajaychauhan100" /></p>
 
-Academic Accomplishments: I graduated with a first division and a 🏆 CGPA of 7.77 from the 🎓 University of Delhi.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaychauhan100&show_icons=true&locale=en" alt="ajaychauhan100" /></p>
 
-I am actively seeking to 📞 engage with like-minded individuals and organizations that 🌍 share a similar drive for excellence. 
-Let's connect and collaborate to create innovative solutions and make a positive impact in the world of web development.
-
-Feel free to explore my repositories and projects. I am always open to feedback, collaboration, and new opportunities.
-
-Connect with me on LinkedIn🔗: www.linkedin.com/in/ajay-chauhan-ac2338
-
-Follow me on Twitter🐦: https://x.com/2032_ajay
-
-Follow me on LeetCode🧩: https://leetcode.com/u/ajaychauhan2338/
-
-Follow me on reddit🎯: https://www.reddit.com/user/Ajay_Chauhan100/
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaychauhan100&" alt="ajaychauhan100" /></p>
