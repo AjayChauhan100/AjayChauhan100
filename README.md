@@ -1,4 +1,3 @@
-<!-- <img src="https://indoanalytica.com/static/images/bannerr.gif" height="150px" width="100%" alt="">  -->
     <h1 align="center">Hi 👋, I'm Ajay Chauhan</h1>
 <h3 align="center">💻Passionate Web Developer | 🚀 Java Full Stack Enthusiast | 🥰 Academic Achiever</h3>
 <img align="right" height="300px" width="400px" src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU" alt="">
